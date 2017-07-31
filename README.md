@@ -3,6 +3,8 @@ Genetik algoritma ile weka kütüphanesini kullanırken en optimum multilayer pe
 
 Veri olarak https://www.kaggle.com/c/titanic datası kullanılmıştır.
 
+Öğrenme algoritmaları için https://weka.wikispaces.com/Use+WEKA+in+your+Java+code weka kütüphanesi kullanılmıştır.
+
 Genetik algoritma adımları
 
 1 İstenilen sayıda random kromozomlar üretilmesi
