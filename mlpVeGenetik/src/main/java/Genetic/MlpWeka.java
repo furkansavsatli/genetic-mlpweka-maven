@@ -43,7 +43,7 @@ public class  MlpWeka {
             System.out.println(eval.toSummaryString()); //Summary of Training
 
 
-            return GenetikAlgoritmaParametre.UygunlukFonsiyonu((eval.pctCorrect()));
+            return (eval.pctCorrect());
 
         } catch (Exception ex) {
             ex.printStackTrace();
