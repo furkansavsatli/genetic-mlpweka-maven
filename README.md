@@ -1,4 +1,4 @@
-# genetic-mlpweka-maven
+# Genetik Algoritma ile MultiLayer Perceptron Optimizasyonu
 Genetik algoritma ile weka kütüphanesini kullanırken en optimum multilayer perceptron parametrelerinin seçilmesi ve bu sonuçlarla multilayer perceptronun sonuçlandırılması uygulamasıdır.
 
 Veri olarak https://www.kaggle.com/c/titanic datası kullanılmıştır.
